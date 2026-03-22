@@ -56,7 +56,7 @@ A browser-based interactive circuit simulator built with vanilla JavaScript and 
 
 ## Live Demo
 
-[Click here to open the simulator](https://YOUR-USERNAME.github.io/circuit-simulator/)
+[Click here to open the simulator](https://github.com/nikhitamohan221/circuit-simulator/)
 
 ## License
 
